@@ -1,2 +1,3 @@
-# python
-그냥 재미로만든거
+그냥 심심해서 끄적여본 코드들...
+
+- auto_window_locating
